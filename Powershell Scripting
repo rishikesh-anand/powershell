@@ -1,11 +1,1 @@
-1. Infomartation about Powershell:
-  - PowerShell is built on the .NET Common Language Runtime
-  - No need to parse text output to extract information from output
-  
-  2. It's Usage 
-    - It's still used for Windows task automation
-    - Automate tasks for Active Directory and Exchange
-    - Cloud management
-    - CI/CD
-    
-    working...
+
